@@ -1,0 +1,30 @@
+[
+  {
+    "messageType": 2,
+    "messageText": "Ini adalah tabel jadwal kumpul rutin:"
+  },
+  {
+    "messageType": 4,
+    "tableMetadata": {
+      "title": "JADWAL RUTIN",
+      "rows": [
+        {
+          "items": ["MINGGU", "KAMIS", "JUMAT"],
+          "isHeading": true
+        },
+        {
+          "items": ["1", "✅", "❌"] 
+        },
+        {
+          "items": ["2", "✅", "✅"] 
+        },
+        {
+          "items": ["3", "✅", "❌"] 
+        },
+        {
+          "items": ["4", "✅", "✅"] 
+        }
+      ]
+    }
+  }
+]

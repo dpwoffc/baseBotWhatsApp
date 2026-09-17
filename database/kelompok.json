@@ -1,0 +1,48 @@
+[
+  {
+    "messageType": 2,
+    "messageText": "Ini adalah tabel kelompok:"
+  },
+  {
+    "messageType": 4,
+    "tableMetadata": {
+      "title": "KELOMPOK",
+      "rows": [
+        {
+          "items": ["KELOMPOK", "ANGGOTA"],
+          "isHeading": true
+        },
+        {
+            "items": [
+                "1", "Fadisya, Talita, Aira, Adel, Tyas"
+            ]
+        },
+        {
+            "items": [
+                "2", "Khoi, Iqbal, Ilham, Aziz, Shafa"
+            ]
+        },
+        {
+            "items": [
+                "3", "Lintang, Zizka, Dwi, Rizki, Destina"
+            ]
+        },
+        {
+            "items": [
+                "4", "Naomi, Andika, Nugroho, Rani, Thania"
+            ]
+        },
+        {
+            "items": [
+                "5", "Siska, Arnis, Anita, Rasya, Aditya"
+            ]
+        },
+        {
+            "items": [
+                "6", "Riski, Nabila, Lucky, Ainin"
+            ]
+        }
+      ]
+    }
+  }
+]

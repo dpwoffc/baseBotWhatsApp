@@ -1,0 +1,27 @@
+[
+  {
+    "messageType": 2,
+    "messageText": "Ini adalah tabel jadwal piket rutin 2 minggu 1x:"
+  },
+  {
+    "messageType": 4,
+    "tableMetadata": {
+      "title": "JADWAL PIKET RUTIN",
+      "rows": [
+        {
+          "items": ["HARI", "LOKASI", "KELOMPOK"],
+          "isHeading": true
+        },
+        {
+          "items": ["SENIN", "KKPI T, MAYOB, PS", "1, 2"] 
+        },
+        {
+          "items": ["SELASA", "PS, BENGKEL, RPS", "3, 4"] 
+        },
+        {
+          "items": ["RABU", "MAYOB, KKPI T, PS", "5, 6"] 
+        }
+      ]
+    }
+  }
+]
